@@ -1,0 +1,98 @@
+Símbolos:
+1. Operadores Aritméticos:
++  (adição)
+-  (subtração)
+×  (multiplicação)
+/  (divisão)
+// (divisão inteira)
+%  (resto da divisão)
+** (potência)
+
+2. Operadores Relacionais:
+== (igualdade)
+!= (diferente)
+>  (maior que)
+< (menor que)
+>= (maior ou igual a)
+<= (menor ou igual a)
+
+3. Operadores Booleanos:
+and (E lógico)
+or (OU lógico)
+not (NÃO lógico)
+
+4. Símbolos de Atribuição:
+= (atribuição)
++= (adição e atribuição)
+-= (subtração e atribuição)
+*= (multiplicação e atribuição)
+/= (divisão e atribuição)
+//= (divisão inteira e atribuição)
+%= (resto da divisão e atribuição)
+**= (expoente e atribuição)
+5. Símbolos de Identificadores de Tipos de Dados:
+() (parênteses)
+[] (colchetes)
+{} (chaves)
+
+6. Símbolo de Identificador de Início de Bloco:
+: (dois pontos)
+Palavras:
+1. Identificadora de Blocos:
+def (define uma função)
+class (define uma classe)
+for (itera sobre uma sequência)
+while (executa um bloco de código enquanto uma condição é verdadeira)
+if (condicional)
+elif (condicional alternativa)
+else (condicional alternativa)
+try (bloco de código que pode gerar exceções)
+except (bloco de código executado em caso de exceção)
+finally (bloco de código executado sempre, independentemente de exceções)
+with (gerencia recursos de forma contextual)
+
+2. Tipos de Dados:
+int (números inteiros)
+float (números de ponto flutuante)
+complex (números complexos)
+bool (valores booleanos True/False)
+str (cadeias de caracteres)
+list (listas)
+tuple (tuplas)
+dict (dicionários)
+set (conjuntos)
+
+3. Funções Built-in:
+print (imprime valores)
+input (recebe entrada do usuário)
+len (retorna o comprimento de um objeto)
+range (gera uma sequência de números)
+type (retorna o tipo de um objeto)
+sum (retorna a soma dos elementos de uma sequência)
+max (retorna o maior elemento de uma sequência)
+min (retorna o menor elemento de uma sequência)
+abs (retorna o valor absoluto de um número)
+round (arredonda um número)
+
+4. Operadores Booleanos:
+True (representa o valor verdadeiro)
+False (representa o valor falso)
+5. Demais:
+and (E lógico)
+or (OU lógico)
+not (NÃO lógico)
+in (verifica se um elemento está presente em uma sequência)
+is (verifica se dois objetos têm o mesmo endereço de memória)
+as (usado em declarações de exceção para renomear a exceção)
+assert (verifica se uma condição é verdadeira)
+break (interrompe o loop)
+continue (pula para a próxima iteração do loop)
+del (remove um item ou variável)
+pass (indica uma instrução vazia)
+return (retorna um valor de uma função)
+yield (retorna um valor de um gerador)
+nonlocal (indica que uma variável é não local)
+global (indica que uma variável é global)
+lambda (cria funções anônimas)
+import (importa um módulo)
+from (importa partes específicas de um módulo)
